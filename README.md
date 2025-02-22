@@ -39,3 +39,9 @@ This project analyzes e-commerce sales data to uncover key trends, customer beha
    
 2. Open the dataset in Excel or load it into Python for further analysis.
 3. Use the provided analysis to generate additional insights or dashboards.
+
+   ## 💡 Author
+**Aquib Ahmad Kumar**  
+Data Analyst | Data Enthusiast  
+https://www.linkedin.com/in/aquib-ahmad-kumar-34054a34b
+---
