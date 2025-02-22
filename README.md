@@ -35,7 +35,7 @@ This project analyzes e-commerce sales data to uncover key trends, customer beha
 ## How to Use
 1. Clone the repository:
 
-   git clone https://github.com/aquibahmadkumarr/ecommerce-sales-analysis.git
+   git clone https://github.com/aquibahmadkumarr/Ecommerce-sales-Performance-Analysis.git
    
 2. Open the dataset in Excel or load it into Python for further analysis.
 3. Use the provided analysis to generate additional insights or dashboards.
