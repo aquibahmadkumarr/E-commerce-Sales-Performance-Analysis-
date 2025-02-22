@@ -1,4 +1,4 @@
-# E-commerce Sales Performance Analysis & Insights
+# E-commerce Sales Performance Analysis
 
 ## Overview
 This project analyzes e-commerce sales data to uncover key trends, customer behavior, and performance insights. The dataset includes order details from multiple platforms, customer demographics, product categories, and sales figures. The goal is to derive meaningful insights to optimize sales, reduce returns, and improve customer satisfaction.
